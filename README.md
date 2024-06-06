@@ -13,4 +13,4 @@ I come from a physics background have spent 4+ painstaking semesters of trying t
 
 Currently I have been working on a QUBO problem for TSP instances and geometric quantum machine learning. Feel free to approach me for teaming up in a competitions or so. I have won the IBM Qiskit Challenge twice consecutively in 2023 and 2024. I also have participated in this year's QHack and iQuHack competitions (first of many I hope). I am incredibly proud to be working in a field that I love and hope to do the same professionally as well.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitd2002)](https://github.com/anuraghazra/github-readme-stats)
