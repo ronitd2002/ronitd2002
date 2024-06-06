@@ -3,7 +3,7 @@
 ---
 # Hello World !
 
-My name is **Ronit Dutta** and I am a final year student at the Indian Institute of Technology, Kharagpur. I work primarily in the field of quantum computing and machine learning. I am also very enthusiastic about participating in competitions and hackathons regarding the same. 
+My name is **Ronit Dutta** and I am a final year student at the **Indian Institute of Technology, Kharagpur**. I work primarily in the field of quantum computing and machine learning. I am also very enthusiastic about participating in competitions and hackathons regarding the same. 
 
 ## Background
 
