@@ -1,5 +1,6 @@
 > To go wrong in one's own way is better than to go right in someone else's.
-*Fyodor Dostoyevsky* (Crime and Punishment)
+
+Fyodor Dostoyevsky (Crime and Punishment)
 
 ---
 # Hello World !
