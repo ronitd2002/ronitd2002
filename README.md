@@ -1,5 +1,5 @@
 > To go wrong in one's own way is better than to go right in someone else's.
-
+> All my favourite quotes [here](https://www.goodreads.com/author/quotes/1429989.Richard_P_Feynman)
 ---
 # Hello World !
 
